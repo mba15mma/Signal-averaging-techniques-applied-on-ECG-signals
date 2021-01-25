@@ -1,1 +1,1 @@
-# Signal-averaging-techniques-applied-on-ECG-signals
+# Signal-averaging-techniques-applied-on-ECG-interpretation
